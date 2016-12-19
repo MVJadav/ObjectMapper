@@ -18,7 +18,7 @@ class Constant
     class HttpParameter
     {
         ///MARK: - APIKey
-        static let APIKey = "I_d912b1c7-1e00-4c69-8ef0-c9c9103abaec"
+        static let APIKey = "I_d712c1c9-1e10-4z65-8ef0-m9c9103abaey"
         static let DeviceType = "IOS"
         
         static let ImagesType = "UserProfileImage"
